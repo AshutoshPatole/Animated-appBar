@@ -1,4 +1,4 @@
-# animatedappbars
+# animated-Appbar
 
 A new Flutter application.
 
